@@ -1,0 +1,30 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "Mean Stack application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/K0LdW0rLd/probable-octo-goggles.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Full Stack Training",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K0LdW0rLd/probable-octo-goggles/issues"
+  },
+  "homepage": "https://github.com/K0LdW0rLd/probable-octo-goggles#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
