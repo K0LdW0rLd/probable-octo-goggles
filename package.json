@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/K0LdW0rLd/probable-octo-goggles#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mongodb": "^2.2.33",
     "mongoose": "^5.9.14"
   },
